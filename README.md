@@ -1,2 +1,2 @@
-# Balloon-Master-2D
-Use the arrow keys to move the balloon.
+# p5.play-boilerplate
+Boiler plate for p5.play
